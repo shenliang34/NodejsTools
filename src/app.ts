@@ -1,8 +1,8 @@
 
-import WebServer from "./net/WebServer";
+// import WebServer from "./net/WebServer";
 
-var web = new WebServer();
-web.connect(8000);
+// var web = new WebServer();
+// web.connect(8000);
 
 
 
